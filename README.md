@@ -12,14 +12,30 @@ To investigate and analysis the school district analysis that has replaced the m
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions
 
 - How is the district summary affected?
-- How is the school summary affected?
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- How does replacing the ninth-grade scores affect the following:
-    - Math and reading scores by grade
-    - Scores by school spending
-    - Scores by school size
-    - Scores by school type
 
+![District_Summary_df](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/District_Summary_df.png)
+- How is the school summary affected?
+
+![Per_school_summary_df](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/Per_school_summary_df.png)
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+![THS_school](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/THS_school_replacingNaN.png)
+
+- How does replacing the ninth-grade scores affect the following:
+### Math Score by grade
+![Math Score by grade](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/Math_scores_by_grade.png)
+    
+### Reading Score by grade
+
+![Reading Score by grade](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/Reading_scores_by_grade.png)
+ 
+### Scores by school spending
+ ![scores by school spendind](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/score_by_school_spending.png)  
+    
+### Scores by school size
+![scores by school size](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/score_by_school_size.png)
+### Scores by school type
+![scores by school type](https://github.com/Poonsri14/School_District_Analysis/blob/main/Resources/score_by_school_type.png)
 
 ## Summary: 
 
